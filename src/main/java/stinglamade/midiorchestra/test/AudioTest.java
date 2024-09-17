@@ -1,9 +1,6 @@
 package stinglamade.midiorchestra.test;
 
-
-
 import stinglamade.midiorchestra.utils.MidiUtils;
-
 import javax.sound.midi.InvalidMidiDataException;
 import javax.sound.midi.MidiUnavailableException;
 
